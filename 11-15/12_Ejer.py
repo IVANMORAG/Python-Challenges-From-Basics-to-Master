@@ -1,7 +1,7 @@
 """
 EJERCICIO 12:
-Convierte un número entero 
-en una cadena.
+Convierte un número entero a 
+una cadena.
 """
 
 numero = 42

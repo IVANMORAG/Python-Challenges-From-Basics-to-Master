@@ -1,7 +1,8 @@
 """
 EJERCICIO 11:
 Calcula el área de un rectángulo, 
-pide la base y altura al usuario.
+pide la base y altura al usuario y 
+muestralo.
 """
 
 base = input("Ingrese la base: ")
