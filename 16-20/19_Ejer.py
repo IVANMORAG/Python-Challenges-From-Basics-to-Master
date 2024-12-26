@@ -8,4 +8,4 @@ cadena = "Tacos al pastor con guacamole"
 
 conteo = cadena.count("a")
 
-print(f"{conteo}")
+print(f"El carácter aparece: {conteo} veces")
