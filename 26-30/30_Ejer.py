@@ -4,5 +4,7 @@ Elimina duplicados de
 una lista.
 """
 
-lista = [2, 4, 2, 5]
+list1 = [2, 4, 2, 5]
+sin_duplicados = list(set(list1))
 
+print(sin_duplicados)
