@@ -4,11 +4,10 @@ Calcular el IMC e
 interpretarlo.
 """
 
-peso = input("Ingrese su peso en kg: ")
-estatura = input("Ingrese su estatura en cm: ")
 
-peso = float(peso)
-estatura = float(peso)
+
+peso = 68
+estatura = 1.65
 
 imc = peso / (estatura * estatura)
 
