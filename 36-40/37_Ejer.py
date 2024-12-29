@@ -6,7 +6,9 @@ Calcula el máximo de 3 números.
 
 a, b, c = input("Ingrese tres números: ").split()
 
-a , b, c = int(a, b, c)
+a = int(a)
+b = int(b)
+c = int(c)
 
 if a > b and a > c:
     print(f"{a} es el mayor.")
