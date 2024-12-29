@@ -4,8 +4,8 @@ Calcular el IMC e
 interpretarlo.
 """
 
-peso = 60
-estatura = 1.65
+peso = 70
+estatura = 1.70
 
 imc = peso / (estatura * estatura)
 
