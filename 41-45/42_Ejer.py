@@ -12,4 +12,4 @@ contador = 0
 for i in range(1, num+1):
     contador = contador + i
     i = i + 1
-print(contador)
+print(f"La suma es: {contador}")
