@@ -10,6 +10,6 @@ num = int(input("Ingresa un número: "))
 contador = 0
 
 for i in range(1, num+1):
-    contador = contador + 1
-    suma = i + contador
-    print(suma)
+    contador = contador + i
+    i = i + 1
+    print(contador)
