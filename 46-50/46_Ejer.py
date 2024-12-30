@@ -10,4 +10,4 @@ contador = 0
 while num != 0:
     num = num // 10
     contador = contador + 1
-print(f"Digitos son {contador}")
+print(f"Digitos: {contador}")
