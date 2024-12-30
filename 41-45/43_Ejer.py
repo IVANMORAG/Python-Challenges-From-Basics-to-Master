@@ -12,6 +12,6 @@ resul = 1
 for i in reversed(range(1, num+1)):
     resul = resul * i
     i = i * 1
-print(resul)
+print(f"El factorial de {num} es: {resul}")
     
 
