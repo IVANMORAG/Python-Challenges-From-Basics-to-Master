@@ -8,4 +8,4 @@ tabla = int(input("Ingresa un número: "))
 
 for i in range(1, 11):
     resul = tabla * i
-    print(resul)
+    print(f"{tabla} x {i} = {resul}")
