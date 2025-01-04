@@ -6,5 +6,5 @@ una cadena utilizando for.
 
 cadena = "Tacos al pastor"
 
-for i in cadena:
-    print(i)
+for caracter in cadena:
+    print(caracter)
