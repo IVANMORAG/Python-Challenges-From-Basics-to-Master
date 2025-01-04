@@ -9,6 +9,5 @@ suma = 0
 for i in range(1, 11):
     if i % 2 == 0:
         suma = suma + i
-        i = i + 1
         print(suma)
         
