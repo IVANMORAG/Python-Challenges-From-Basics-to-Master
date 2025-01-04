@@ -8,5 +8,5 @@ del mismo
 num = int(input("Ingrese un número: "))
 
 for i in range(1, 11):
-    multi = num * 1
-    print(multi)
+    multi = num * i
+    print(f"{num} X {i} = {multi}")
