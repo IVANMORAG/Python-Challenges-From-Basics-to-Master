@@ -4,6 +4,7 @@ Imprimir los elementos de una
 lista dada.
 """
 
-lista = list(input("Ingrese los datos: ").split())
+lista = [1, 2, 3, 4, 5]
 
-print(lista)
+for i in lista:
+    print(i)
