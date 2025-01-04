@@ -6,6 +6,5 @@ de una lista por 2.
 
 lista = [10, 20, 30]
 
-for i in lista:
-    multi = lista * 2
-    print(multi)
+for i in range(len(lista)):
+    print(lista[i] * 2)
