@@ -5,7 +5,9 @@ la distancia y la velocidad para
 poder calcular el tiempo de viaje.
 """
 
-def tiempo(distancia, velocidad):
+def tiempo():
+    distancia = int(input("Ingrese la distancia: "))  
+    velocidad = int(input("Ingrese la velocidad: "))  
     return distancia / velocidad
 
-print(f"El tiempo es: {tiempo(225, 45)}")
+print(f"El tiempo es: {tiempo()}")
