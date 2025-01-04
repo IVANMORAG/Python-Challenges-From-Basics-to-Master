@@ -4,7 +4,11 @@ Imprimir la suma de los numeros pares
 del 1 al 10 utilizando for.
 """
 
+suma = 0
+
 for i in range(1, 11):
     if i % 2 == 0:
-        print(i)
+        suma = suma + i
+        i = i + 1
+        print(suma)
         
