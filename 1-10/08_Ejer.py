@@ -1,9 +1,13 @@
 """
 EJERCICIO 8:
-Crea un tupla con elementos 
-e imprimela.
+Calcula el área de un triángulo dado 
+su base y altura.
+Fórmula: (base * altura) / 2
 """
 
-tupla = ("elemento1", "elemento2", "elemento3")
+base = float(input("Ingrese su base: "))
+altura = float(input("Ingrese la altura: "))
 
-print(tupla)
+area = (base * altura) / 2
+
+print(f"El área es: {area}cm")

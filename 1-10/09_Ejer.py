@@ -1,12 +1,12 @@
 """
 EJERCICIO 9:
-Realiza la potencia de un número.
+Determina si un número ingresado
+por el usuario es Par o Impar.
 """
 
-num, potencia = input("Ingrese un numero y su potencia: ").split()
+num = float(input("Ingresa un número: "))
 
-num = int(num)
-potencia = int(potencia)
-
-print(num ** potencia)
-
+if num % 2 == 0: 
+    print(f"{num} es Par")
+else:
+    print(f"{num} es Impar")

@@ -1,10 +1,11 @@
 """
 EJERCICIO 5:
-Realiza una multiplicación de dos 
-números  y muestra el resultado.
+Solicita un número y muestra 
+su raíz cuadrada.
 """
 
-a = 5
-b = 10
+num = float(input("Ingresa un número: "))
 
-print(f"El resultado es: {a * b}")
+raizC = num ** 0.5
+
+print(f"Raíz cuadrada de {num} es {raizC}")

@@ -1,10 +1,12 @@
 """
 EJERCICIO 6:
-Crea una cadena de texto y 
-muestra su longuitud.
+Solicita el precio de un producto y calcula 
+el precio final con un 16% de IVA
 """
 
-texto = input("Ingrese una cadena de texto: ")
-long = len(texto)
+precio = float(input("Ingrese el precio de su producto: "))
 
-print(f'La longuitud de la cadena: {texto} \nEs: {long}')
+IVA = precio * 0.16
+precioFinal = IVA + precio
+
+print(f"Total a pagar: ${precioFinal}")

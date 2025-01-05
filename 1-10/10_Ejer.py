@@ -1,10 +1,11 @@
 """
 EJERCICIO 10:
-Invierte una cadena.
+Imprime el cuadrado de un 
+número ingresado.
 """
 
-cadena = 'cadena'
+num = float(input("Ingrese un número: "))
 
-invertir = cadena[::-1]
+cuadrado = num ** 2
 
-print(invertir)
+print(f"El cuadrado de: {num} es {cuadrado}")
