@@ -1,9 +1,13 @@
 """"
 EJERCICIO 4:
-Crear una lista don diferentes 
-elementos e imprimirla.
+Escribe un programa que convierta 
+grados Celsius a Fahrenheit.
+Fórmula: ((0°C x 9) / 5) + 32
 """
 
-lista = ["elemento", 1, 2, 5.0, "otroElemento", True]
+gradosCels = float(input("Ingrese los grados Celsius: "))
 
-print(lista)
+fahrt = ((gradosCels * 9) / 5) + 32
+
+print(f"{gradosCels}°C = {fahrt}°F")
+

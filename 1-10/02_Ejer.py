@@ -1,12 +1,13 @@
 """"
 EJERCICIO 2:
-Calcula el área de un circulo 
-con un radio dado.
+Pide las dimensiones de un rectángulo
+y calcula su perímetro.
+Fórmula: P = 2L + 2W
 """
 
-radio = float(input("Ingrese el radio: "))
-PI = float(3.1416)
+base = int(input("Ingrese la base: "))
+altura = int(input("Ingrese la altura: "))
 
-area = PI * (radio * radio)
+perimetro = (base*2) + (altura*2)
 
-print(f'El área del circulo es: {area}')
+print(f"El perímetro del rectángulo es: {perimetro} cm")

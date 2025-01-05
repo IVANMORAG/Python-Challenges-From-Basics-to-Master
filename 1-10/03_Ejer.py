@@ -1,11 +1,11 @@
 """
 EJERCICIO 3:
-Concatena dos cadenas de texto.
+Calcula el promedio de tres números
+dados por el usuario.
 """
 
-cadena1 = "Juntar texto 1"
-cadena2 = "con el texto dos"
+a = list(map(int, input("Ingrese tres números: ").split()))
 
-texto = cadena1 + " " + cadena2
+promedio = sum(a) / len(a)
 
-print(texto)
+print(f"El promedio es: {promedio}")
