@@ -1,9 +1,12 @@
 """
 EJERCICIO 18:
-Solicita dos
+Solicita dos cadenas y combinalas
+en una sola.
 """
 
-decimal = float(input("Ingrese un número flotante: "))
-entero = int(decimal)
+cadena1 = input("Ingrese la primer cadena: ")
+cadena2 = input("Ingrese la segunda cadena: ")
 
-print(f"Número entero: {entero}")
+fraseFinal = cadena1 + cadena2
+
+print(fraseFinal)
