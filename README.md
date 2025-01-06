@@ -1,66 +1,66 @@
-# Python Exercises: From Basics to Advanced
+# Ejercicios de Python: Desde lo Básico hasta lo Avanzado
 
-## Overview
-This repository contains 100 Python exercises designed to strengthen your understanding of Python, ranging from basic syntax to advanced topics like functions and algorithms. The exercises are categorized into three difficulty levels: **Easy**, **Intermediate**, and **Advanced**, and aim to simulate real-world challenges similar to those found on platforms like HackerRank.
-
----
-
-## Exercise Categories and Structure
-
-### Easy (1-40)
-Focused on fundamental concepts, including variables, loops, conditionals, and basic string manipulations.
-
-#### Examples:
-- Calculate the sum of two numbers.
-- Check if a number is even or odd.
-- Generate the multiplication table for a given number.
-
-### Intermediate (41-80)
-Delves into functions, list comprehensions, dictionaries, and basic data manipulations.
-
-#### Examples:
-- Create a function to check if a string is a palindrome.
-- Implement a basic calculator supporting addition, subtraction, multiplication, and division.
-- Count word frequencies in a text using dictionaries.
-
-### Advanced (81-100)
-Challenges with more complexity, introducing algorithms, matrices, and recursive problems.
-
-#### Examples:
-- Solve the Towers of Hanoi problem using recursion.
-- Validate if a Sudoku grid is correctly filled.
-- Implement the Caesar Cipher for text encryption.
+## Resumen
+# Este repositorio contiene 100 ejercicios de Python diseñados para fortalecer tu comprensión de Python, abarcando desde la sintaxis básica hasta temas avanzados como funciones y algoritmos. Los ejercicios están categorizados en tres niveles de dificultad: **Fácil**, **Intermedio** y **Avanzado**, y tienen como objetivo simular desafíos del mundo real similares a los que se encuentran en plataformas como HackerRank.
 
 ---
 
-## How to Use
-1. Clone the repository to your local machine:
-   ```bash
-   git clone <repository_url>
-   ```
+## Categorías y Estructura de los Ejercicios
 
-2. Navigate to the directory:
-   ```bash
-   cd python-exercises
-   ```
+### Fácil (1-40)
+# Enfocados en conceptos fundamentales, incluyendo variables, bucles, condicionales y manipulaciones básicas de cadenas.
 
-3. Choose the desired exercise category and level.
+#### Ejemplos:
+# - Calcular la suma de dos números.
+# - Comprobar si un número es par o impar.
+# - Generar la tabla de multiplicar para un número dado.
 
-4. Follow the problem statement in the corresponding Python file and solve it in your preferred IDE or text editor.
+### Intermedio (41-80)
+# Profundiza en funciones, comprensiones de listas, diccionarios y manipulaciones básicas de datos.
 
----
+#### Ejemplos:
+# - Crear una función para verificar si una cadena es un palíndromo.
+# - Implementar una calculadora básica que soporte suma, resta, multiplicación y división.
+# - Contar la frecuencia de palabras en un texto utilizando diccionarios.
 
-## Contribution Guidelines
-If you'd like to contribute:
-- Fork the repository.
-- Create a branch for your changes.
-- Submit a pull request with clear explanations of the additions or improvements.
+### Avanzado (81-100)
+# Desafíos con mayor complejidad, introduciendo algoritmos, matrices y problemas recursivos.
 
----
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+#### Ejemplos:
+# - Resolver el problema de las Torres de Hanoi usando recursión.
+# - Validar si una cuadrícula de Sudoku está correctamente llena.
+# - Implementar el Cifrado César para la encriptación de texto.
 
 ---
 
-Happy Coding! 🎉
+## Cómo Usar
+# 1. Clona el repositorio a tu máquina local:
+#    ```bash
+#    git clone <repository_url>
+#    ```
+
+# 2. Navega al directorio:
+#    ```bash
+#    cd python-exercises
+#    ```
+
+# 3. Elige la categoría y el nivel de ejercicio deseado.
+
+# 4. Sigue la declaración del problema en el archivo Python correspondiente y resuélvelo en tu IDE o editor de texto preferido.
+
+---
+
+## Directrices de Contribución
+# Si deseas contribuir:
+# - Haz un fork del repositorio.
+# - Crea una rama para tus cambios.
+# - Envía un pull request con explicaciones claras sobre las adiciones o mejoras.
+
+---
+
+## Licencia
+# Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
+
+---
+
+# ¡Feliz Programación! 🎉
