@@ -1,9 +1,12 @@
 """"
 EJERCICIO 16:
-Calcula 2 elevado a la 4ta potencia
-sin usar el operador **.
+Determina si una palabra es
+palíndromo.
 """
 
-resultado = pow(2, 4)
+palabra = input("Ingrese una palabra: ")
 
-print(resultado)
+if palabra == palabra[::-1]:
+    print(f"{palabra} es un palindromo.")
+else:
+    print(f"{palabra} no es un palindromo.")

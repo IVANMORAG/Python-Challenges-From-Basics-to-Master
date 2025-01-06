@@ -1,7 +1,6 @@
 """
 EJERCICIO 17:
-Extrae una subcadena de 
-una cadena dada.
+Reemplaza t
 """
 
 cadena = "Hola mundo"
