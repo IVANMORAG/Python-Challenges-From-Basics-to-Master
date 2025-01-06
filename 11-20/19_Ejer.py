@@ -4,8 +4,10 @@ Cuenta las ocurrencias de un carácter
 especifico en una cadena.
 """
 
-cadena = "Tacos al pastor con guacamole"
+cadena = "Tacos Messi"
+print(cadena)
 
-conteo = cadena.count("a")
+palabras = cadena.split()
+conteo = len(palabras)
 
-print(f"El carácter aparece: {conteo} veces")
+print(f"La frase tiene: {conteo} palabras")
