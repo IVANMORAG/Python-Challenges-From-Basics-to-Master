@@ -1,7 +1,6 @@
 """
 EJERCICIO 18:
-Convierte un número decimal
-a un número entero.
+Solicita dos
 """
 
 decimal = float(input("Ingrese un número flotante: "))

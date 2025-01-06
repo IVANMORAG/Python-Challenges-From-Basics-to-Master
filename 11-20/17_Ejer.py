@@ -1,9 +1,15 @@
 """
 EJERCICIO 17:
-Reemplaza t
+Reemplaza todas las vocales en una 
+frase por un asterisco(*).
 """
 
-cadena = "Hola mundo"
-subcadena = cadena[0:2]
+palabra = "Tacos al pastor" 
+vocales = "aeiouAEIOU" 
 
-print(subcadena)
+print(palabra)
+
+for vocal in vocales: 
+    palabra = palabra.replace(vocal, "*") 
+    
+print(f"Frase nueva: '{palabra}'")
