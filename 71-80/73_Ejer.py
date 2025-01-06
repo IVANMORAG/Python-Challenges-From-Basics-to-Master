@@ -1,8 +1,5 @@
 """
 EJERCICIO 73:
-Crea una clase libro
-atributos:
-titulo, autor, editorial, año de publicación
-Metodos:
-constructor para inicializar los atributos.
+Filtra palabras mayores a 5 caracteres
+de una lista usando comprensión de listas.
 """
