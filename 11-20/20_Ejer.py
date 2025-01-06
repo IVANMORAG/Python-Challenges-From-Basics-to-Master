@@ -1,11 +1,12 @@
 """
 EJERCICIO 20:
-Encuentra y muestra el último 
-carácter de una cadena.
+Elimina los espacios de 
+una frase.
 """
 
 cadena = "Agua de jamaica"
+print(cadena)
 
-busqueda = cadena[-1]
+sinEspacios = cadena.replace(" ", "")
 
-print(busqueda)
+print(f"Sin espacios: {sinEspacios}")
