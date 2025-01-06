@@ -1,11 +1,13 @@
 """
 EJERCICIO 15:
-Ordena una lista de números 
-de menor a mayor.
+Solicita dos palabras y determina 
+si son iguales.
 """
 
-lista = list(map(int, input("Ingrese los números: ").split()))
+cadena1 = input("Ingrese una palabra: ")
+cadena2 = input("Ingrese una palabra: ")
 
-lista.sort()
-
-print(lista)
+if cadena1 == cadena2:
+    print("Ambas cadenas son iguales")
+else:
+    print("Son diferentes")

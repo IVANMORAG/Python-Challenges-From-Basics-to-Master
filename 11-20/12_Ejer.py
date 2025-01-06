@@ -1,11 +1,10 @@
 """
 EJERCICIO 12:
-Convierte un número entero a 
-una cadena.
+Solicita una frase e indica
+su longuitud.
 """
+frase = input("Ingresa una frase: ")
 
-numero = 42
-print(f'Tipo de dato del entero: {type(numero)}')
+longuitud = len(frase)
 
-cadena = str(numero)
-print(f"Ahora lo pasamos a cadena con 'str() -> '{type(cadena)}")
+print(f"Longuitud: {longuitud}")

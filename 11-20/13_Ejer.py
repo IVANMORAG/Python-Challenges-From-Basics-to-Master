@@ -1,10 +1,15 @@
 """
 EJERCICIO 13:
-Remplaza un carácter en una cadena.
+Cuenta cuantas vocales hay en una palabra.
 """
 
-cadena = "Tacos al pastor"
+palabra = "Tacos al pastor"
+vocales = ["a", "e", "i", "o", "u"]
+contador = 0
 
-cadena2 = cadena.replace("T", "7")
+for letra in palabra.lower():  
+    if letra in vocales:
+        contador += 1
 
-print(cadena2)
+print(f"Frase: '{palabra}'")
+print(f"Hay {contador} vocales")

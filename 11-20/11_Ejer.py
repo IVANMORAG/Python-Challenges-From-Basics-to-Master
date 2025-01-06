@@ -1,13 +1,12 @@
 """
 EJERCICIO 11:
-Calcula el área de un rectángulo, 
-pide la base y altura al usuario y 
-muestralo.
+Solicita una palabra e imprimela 
+invertida.
 """
 
-base = input("Ingrese la base: ")
-altura = int(input("Ingrese la altura: "))
+palabra = input("Ingresa una palbra: ")
 
-base = int(base)
+invertir = palabra[::-1]
 
-print(f'El área del rectangulo es: {base * altura}')
+
+print(f"La palbra invertida es: {invertir}")

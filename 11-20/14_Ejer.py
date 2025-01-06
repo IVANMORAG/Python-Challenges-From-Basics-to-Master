@@ -1,11 +1,13 @@
 """
 EJERCICIO 14:
-Pasa una cadena de mayúsculas 
-a minúsculas.
+Convierte la primera letra de 
+una frase a mayúscula.
 """
 
-mayuscula = "FC BARCELONA"
-minuscula = mayuscula.lower()
+frase = "Helado de Mamey"
 
-print(f"En mayúsculas: {mayuscula}")
-print(f"En minúscula: {minuscula}")
+conversion = frase.capitalize()
+
+print(f"Frase original: '{frase}'")
+print(f"Conversión: '{conversion}'")
+
