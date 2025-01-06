@@ -1,5 +1,5 @@
 """
 EJERCICIO 80:
-Obtener la cantidad de memoria ram
-en mi computadora o laptop.
+Crea una función que elimine las 
+vocales de un texto.
 """
