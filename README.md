@@ -1,16 +1,66 @@
-# Python: 100 Ejercicios Desde Cero a Avanzado 🐍
+# Python Exercises: From Basics to Advanced
 
-¡Bienvenido/a a mi repositorio de 100 ejercicios en Python! 🚀  
-Este proyecto tiene como objetivo abordar problemas y retos de programación, desde conceptos básicos hasta avanzados, para reforzar habilidades en Python. 
+## Overview
+This repository contains 100 Python exercises designed to strengthen your understanding of Python, ranging from basic syntax to advanced topics like functions and algorithms. The exercises are categorized into three difficulty levels: **Easy**, **Intermediate**, and **Advanced**, and aim to simulate real-world challenges similar to those found on platforms like HackerRank.
 
-## 🔍 ¿De qué trata este repositorio?
+---
 
-Este repositorio contiene 100 ejercicios progresivos organizados en categorías de dificultad:  
-- **Básico**: Operadores, estructuras de control, listas, etc.  
-- **Intermedio**: Manejo de archivos, funciones, módulos, etc.  
-- **Avanzado**: Programación orientada a objetos, estructuras avanzadas de datos, algoritmos, etc.  
+## Exercise Categories and Structure
 
-Cada ejercicio tiene:
-1. Descripción del problema.
-2. Código de la solución.
-3. Explicación del enfoque o del algoritmo utilizado (en algunos casos).
+### Easy (1-40)
+Focused on fundamental concepts, including variables, loops, conditionals, and basic string manipulations.
+
+#### Examples:
+- Calculate the sum of two numbers.
+- Check if a number is even or odd.
+- Generate the multiplication table for a given number.
+
+### Intermediate (41-80)
+Delves into functions, list comprehensions, dictionaries, and basic data manipulations.
+
+#### Examples:
+- Create a function to check if a string is a palindrome.
+- Implement a basic calculator supporting addition, subtraction, multiplication, and division.
+- Count word frequencies in a text using dictionaries.
+
+### Advanced (81-100)
+Challenges with more complexity, introducing algorithms, matrices, and recursive problems.
+
+#### Examples:
+- Solve the Towers of Hanoi problem using recursion.
+- Validate if a Sudoku grid is correctly filled.
+- Implement the Caesar Cipher for text encryption.
+
+---
+
+## How to Use
+1. Clone the repository to your local machine:
+   ```bash
+   git clone <repository_url>
+   ```
+
+2. Navigate to the directory:
+   ```bash
+   cd python-exercises
+   ```
+
+3. Choose the desired exercise category and level.
+
+4. Follow the problem statement in the corresponding Python file and solve it in your preferred IDE or text editor.
+
+---
+
+## Contribution Guidelines
+If you'd like to contribute:
+- Fork the repository.
+- Create a branch for your changes.
+- Submit a pull request with clear explanations of the additions or improvements.
+
+---
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Happy Coding! 🎉
