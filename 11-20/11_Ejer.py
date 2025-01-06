@@ -8,5 +8,4 @@ palabra = input("Ingresa una palbra: ")
 
 invertir = palabra[::-1]
 
-
 print(f"La palbra invertida es: {invertir}")

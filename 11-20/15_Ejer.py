@@ -5,6 +5,7 @@ si son iguales.
 """
 
 cadena1 = input("Ingrese una palabra: ")
+
 cadena2 = input("Ingrese una palabra: ")
 
 if cadena1 == cadena2:
