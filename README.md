@@ -1,7 +1,7 @@
 # Ejercicios en Python: Desde lo Básico hasta lo Avanzado
 
 ## Descripción general
-Este repositorio contiene 100 ejercicios en Python diseñados para fortalecer tu comprensión del lenguaje, abarcando desde la sintaxis básica hasta temas avanzados como funciones y algoritmos. Los ejercicios están categorizados en tres niveles de dificultad: **Fácil**, **Intermedio** y **Avanzado**, y buscan simular desafíos del mundo real similares a los encontrados en plataformas como HackerRank.
+Este repositorio contiene 100 ejercicios en Python diseñados para fortalecer tu comprensión del lenguaje, abarcando desde la sintaxis básica hasta temas avanzados como funciones y algoritmos. Los ejercicios están categorizados en tres niveles de dificultad: **Fácil**, **Intermedio** y **Avanzado**, y buscan simular desafíos del mundo real.
 
 ---
 
