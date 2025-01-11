@@ -1,11 +1,4 @@
 """
 EJERCICIO 28:
-Extrae un elemento especifico
-de una tupla.
+Solicita al usuario una lista de números y encuentra el mayor. Usa la función incorporada max()
 """
-
-tupla = (10, 20, 30)
-
-elemento = tupla[2]
-
-print(elemento)
