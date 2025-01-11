@@ -1,10 +1,5 @@
 """
 EJERCICIO 30:
-Elimina duplicados de 
-una lista.
+Calcula la suma de todos los elementos de una lista usando un bucle for.
 """
 
-list1 = [2, 4, 2, 5]
-sin_duplicados = list(set(list1))
-
-print(sin_duplicados)
