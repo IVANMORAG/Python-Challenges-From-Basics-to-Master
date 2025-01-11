@@ -1,11 +1,6 @@
 """
 EJERCICIO 23:
-Verifica si una palabra
-es palindromo.
+Calcula la suma de todos los números pares
+entre 1 y 50 utilizando un bucle for.
 """
 
-palabra = "radar"
-
-palabra2 = palabra == palabra[::-1]
-
-print(palabra2)
