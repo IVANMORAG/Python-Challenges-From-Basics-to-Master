@@ -1,7 +1,7 @@
 """
 EJERCICIO 21:
-Multiplica una cadena por 
-un número entero.
+Genera una tabla de multiplicar de un
+número dado usando for.
 """
 
 cadena = " Messi "
