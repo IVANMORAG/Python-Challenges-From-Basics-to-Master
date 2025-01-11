@@ -1,9 +1,6 @@
 """
 EJERCICIO 25:
-Genera una lista de números 
-del 1 al 200.
+Determina si un número es primo. Usa
+el bucle for para dividir el número por sus 
+posibles divisores
 """
-
-numeros = list(range(1,201))
-
-print(numeros)

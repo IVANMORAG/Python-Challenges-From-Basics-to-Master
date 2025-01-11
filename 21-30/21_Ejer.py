@@ -4,8 +4,7 @@ Genera una tabla de multiplicar de un
 número dado usando for.
 """
 
-cadena = " Messi "
+numero = int(input("Ingresa un número: "))
 
-oper = cadena * 5
-
-print(f"Cadena multiplicada:\n {oper}")
+for i in range(1, 11):
+    print(f"{numero} x {i} = {numero * i}")
