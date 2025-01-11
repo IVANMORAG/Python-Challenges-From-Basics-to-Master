@@ -1,11 +1,5 @@
 """
 EJERCICIO 22:
-Divide una cadena en 
-una lista de subcadenas.
+Imprime todos los números del al 1
+al 100 usando el bucle WHile.
 """
-
-cadena = "Messi es el GOAT"
-
-subcadena = cadena.split()
-
-print(subcadena)
