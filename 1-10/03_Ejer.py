@@ -4,8 +4,12 @@ Calcula el promedio de tres números
 dados por el usuario.
 """
 
-a = list(map(int, input("Ingrese tres números: ").split()))
+print("--- Promedio de 3 Números --- ")
 
-promedio = sum(a) / len(a)
+numero_uno = int(input("Ingrese el primer número: "))
+numero_dos = int(input("Ingrese el segundo número: "))
+numero_tres = int(input("Ingrese el tercer número: "))
 
-print(f"El promedio es: {promedio}")
+promedio = (numero_dos + numero_tres + numero_uno) / 3
+
+print(f"El Promedio es: {promedio}")
