@@ -5,9 +5,11 @@ y calcula su perímetro.
 Fórmula: P = 2L + 2W
 """
 
+print("--- Perimetro de un Rectangulo---")
+
 base = int(input("Ingrese la base: "))
 altura = int(input("Ingrese la altura: "))
 
-perimetro = (base*2) + (altura*2)
+resultado = (base*2) + (altura*2)
 
-print(f"El perímetro del rectángulo es: {perimetro} cm")
+print(f"El resultado es: {resultado}")
