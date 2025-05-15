@@ -1,12 +1,9 @@
 """
-EJERCICIO 9:
-Determina si un número ingresado
-por el usuario es Par o Impar.
+9. STRING CONCATENATION
+
+Use the + operator to concatenate 
+"Hello" and "World".
+
+>> 'HelloWorld'
+
 """
-
-num = float(input("Ingresa un número: "))
-
-if num % 2 == 0: 
-    print(f"{num} es Par")
-else:
-    print(f"{num} es Impar")

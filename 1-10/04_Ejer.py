@@ -1,15 +1,8 @@
-""""
-EJERCICIO 4:
-Escribe un programa que convierta 
-grados Celsius a Fahrenheit.
-Fórmula: ((0°C x 9) / 5) + 32
 """
+4. MULTIPLY TWO NUMBERS
 
-print("--- Convertidor de Grados ---")
+Use the * operator to multiply 8 by 12.
 
-gradosCels = float(input("Ingrese los grados Celsius: "))
+>> 96
 
-fahrt = ((gradosCels * 9) / 5) + 32
-
-print(f"{gradosCels}°C = {fahrt}°F")
-
+"""

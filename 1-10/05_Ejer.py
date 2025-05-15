@@ -1,13 +1,8 @@
 """
-EJERCICIO 5:
-Solicita un número y muestra 
-su raíz cuadrada.
+5. DIVIDE TWO NUMBERS
+
+Use the operator / to divide 144 by 12.
+
+>> 12.0
+
 """
-
-print("--- Raíz Cuadrada de un Número ---")
-
-num = float(input("Ingresa un número: "))
-
-raizC = num ** 0.5
-
-print(f"Raíz cuadrada de {num} es {raizC}")

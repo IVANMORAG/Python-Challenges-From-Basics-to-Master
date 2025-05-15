@@ -1,11 +1,9 @@
 """
-EJERCICIO 10:
-Imprime el cuadrado de un 
-número ingresado.
+10. STRING WITH SPACE 
+
+Use string concatenation to join 
+"Python" and "is fun" with a space.
+
+>> Python is fun
+
 """
-
-num = float(input("Ingrese un número: "))
-
-cuadrado = num ** 2
-
-print(f"El cuadrado de: {num} es {cuadrado}")

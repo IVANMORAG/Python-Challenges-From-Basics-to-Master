@@ -1,15 +1,9 @@
-""""
-EJERCICIO 2:
-Pide las dimensiones de un rectángulo
-y calcula su perímetro.
-Fórmula: P = 2L + 2W
 """
+2. ADD TWO NUMBERS
 
-print("--- Perimetro de un Rectangulo---")
+Use variables and the + operator 
+to add 15 and 27.
 
-base = int(input("Ingrese la base: "))
-altura = int(input("Ingrese la altura: "))
+>> 42
 
-resultado = (base*2) + (altura*2)
-
-print(f"El resultado es: {resultado}")
+"""

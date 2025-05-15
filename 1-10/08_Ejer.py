@@ -1,13 +1,9 @@
 """
-EJERCICIO 8:
-Calcula el área de un triángulo dado 
-su base y altura.
-Fórmula: (base * altura) / 2
+8. EXPONENTIATION
+
+Use the ** operator to calculate 2 raised to 
+the power of 5.
+
+>> 32
+
 """
-
-base = float(input("Ingrese su base: "))
-altura = float(input("Ingrese la altura: "))
-
-area = (base * altura) / 2
-
-print(f"El área es: {area}cm")
